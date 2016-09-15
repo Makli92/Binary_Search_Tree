@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1371914577 source:c:\users\makli\documents\mycpp\binarysearchmaxtree\bsmtree.cpp
+	"BSMTree.h"
+	<iostream>
+	<queue>
+
+1371914399 c:\users\makli\documents\mycpp\binarysearchmaxtree\bsmtree.h
+
+1371914560 source:c:\users\makli\documents\mycpp\binarysearchmaxtree\main.cpp
+	"BSMTree.h"
+	<iostream>
+	<queue>
+
